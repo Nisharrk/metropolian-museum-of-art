@@ -1,3 +1,15 @@
+/*********************************************************************************
+ *  WEB422 – Assignment 5
+ *  I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+ *  No part of this assignment has been copied manually or electronically from any other source
+ *  (including web sites) or distributed to other students.
+ *
+ *  Name: Nishant Sharma    Student ID: 150619203     Date: 24/03/2023
+ *  Git Repo: https://github.com/Nisharrk/metropolian-museum-of-art
+ *  Deployed URL: https://metropolian-museum-of-art.vercel.app/
+ *
+ ********************************************************************************/
+
 import Head from "next/head";
 import { Row, Col, Image } from "react-bootstrap";
 import styles from "@/styles/style.module.css";
