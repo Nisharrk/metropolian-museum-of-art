@@ -1,0 +1,49 @@
+.invalid {
+    color: red;
+    padding: 0.4rem;
+    font-size: 14px;
+}
+
+.text {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+
+.link {
+    color: forestgreen;
+    font-size: 14px;
+    font-weight: 500;
+    overflow-wrap:break-word;
+}
+
+.textArea{
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    overflow-wrap: break-word;
+}
+
+.highlightText {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.detailPageBtnGroup{
+    display: flex;
+    justify-content: space-between;
+}
+
+.historyListItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.historyListItem:hover {
+    background-color: rgb(244, 244, 244);
+    cursor:pointer;
+}
